@@ -1,6 +1,7 @@
 import media
-import fresh_tomatoes
+import marks_movie_trailers
 
+# List of movies
 matrix_reloaded = media.Movie(
   "Matrix reloaded",
   "A story a hacker to save the world",
@@ -11,7 +12,7 @@ gladiator = media.Movie(
   "Gladiator",    
   "A Roman General fight your honor as gladiator",
   "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/Gladiator_ver1.jpg/220px-Gladiator_ver1.jpg",
-  "https://www.youtube.com/watch?v=owK1qxDselE&feature=youtu.be")
+  "https://www.youtube.com/watch?v=uvbavW31adA")
 
 indiana_jones = media.Movie(
   "Indiana Jones",
@@ -39,4 +40,4 @@ terminator2 = media.Movie(
 
 movies = [matrix_reloaded, gladiator, indiana_jones, pursuit_happyness, who_am_i, terminator2]  
 
-fresh_tomatoes.open_movies_page(movies)
+marks_movie_trailers.open_movies_page(movies)

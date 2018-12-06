@@ -14,9 +14,8 @@ def create_movie_trailers():
 
     gladiator = media.Movie("Gladiator",
                             "A Roman General fight your honor as gladiator",
-                            ("https://upload.wikimedia.org/wikipedia/en/" 
-                             + "thumb/8/8d/Gladiator_ver1.jpg/220px-Gladia" 
-                             + "tor_ver1.jpg"),
+                            ("https://images-na.ssl-images-amazon.com" 
+                             + "/images/I/51XQKPC010L._SY445_.jpg"),
                             "https://www.youtube.com/watch?v=uvbavW31adA")
 
     indiana_jones = media.Movie("Indiana Jones",
@@ -27,9 +26,9 @@ def create_movie_trailers():
 
     pursuit_happyness = media.Movie("The Pursuit of Happyness",
                                     "Gardner becomes obstinate for the " 
-                                     "survival and sustenanc e of his family",
-                                     ("https://upload.wikimedia.org/wikipedia" 
-                                     + "/pt/thumb/1/1e/The_Pursuit_of_Happynes" 
+                                    "survival and sustenanc e of his family",
+                                    ("https://upload.wikimedia.org/wikipedia"
+                                     + "/pt/thumb/1/1e/The_Pursuit_of_Happynes"
                                      + "s.jpg/200px-The_Pursuit_of_Happyness.jpg"),
                                     "https://www.youtube.com/watch" +
                                     "?v=89Kq8SDyvfg")

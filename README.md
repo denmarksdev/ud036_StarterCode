@@ -23,6 +23,6 @@ Run the following command in your terminal:
 
 # Screenshoot
 
-![](https://github.com/denmarksdev/catalog/blob/master/screenshot.JPG?raw=true "Marks Movie Traillers - APP")
+![](https://github.com/denmarksdev/ud036_StarterCode/blob/master/screenshot.jpg?raw=true "Marks Movie Traillers - APP")
 
 
